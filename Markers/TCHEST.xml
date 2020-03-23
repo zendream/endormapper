@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?><Pack Name="TCHEST" Revision="0">
+
+<Marker Name="Aegis Two" X="5949" Y="58" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Aegis Two" X="5937" Y="123" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Aegis Three" X="5952" Y="149" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Three" X="5886" Y="84" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Two" X="5986" Y="101" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Aegis Three" X="5932" Y="151" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Two" X="5901" Y="132" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Aegis Two" X="5884" Y="162" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Aegis Three" X="5934" Y="93" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Three" X="5995" Y="152" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Three" X="5966" Y="141" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Two" X="5919" Y="108" Icon="LEVEL2" Facet="0"/>
+
+<Marker Name="Aegis Three" X="5741" Y="223" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Three" X="5726" Y="226" Icon="LEVEL3" Facet="0"/>
+
+<Marker Name="Aegis Three" X="5859" Y="289" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Three" X="5908" Y="343" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Four" X="5907" Y="222" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Three" X="5912" Y="254" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Three" X="5886" Y="241" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Four" X="5874" Y="233" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Four" X="5858" Y="224" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Four" X="5881" Y="267" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Three" X="5855" Y="308" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Three" X="5872" Y="314" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Three" X="5888" Y="283" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Three" X="5906" Y="308" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Three" X="5879" Y="319" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Aegis Four" X="5886" Y="241" Icon="LEVEL4" Facet="0"/>
+
+<Marker Name="Aegis Five" X="5918" Y="294" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Aegis Five" X="5928" Y="284" Icon="LEVEL5" Facet="0"/>
+
+<Marker Name="Aegis Four" X="5953" Y="273" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Four" X="5853" Y="284" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Six" X="6043" Y="317" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Aegis Four" X="5963" Y="247" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Four" X="5991" Y="257" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Five" X="5970" Y="267" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Aegis Five" X="6007" Y="248" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Aegis Five" X="6005" Y="230" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Aegis Four" X="5954" Y="233" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Four" X="5957" Y="259" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Five" X="6007" Y="242" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Aegis Six" X="6031" Y="216" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Aegis Five" X="5946" Y="288" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Aegis Four" X="5969" Y="332" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Four" X="5983" Y="304" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Four" X="6008" Y="309" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Four" X="6035" Y="215" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Four" X="5996" Y="331" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Six" X="6041" Y="214" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Aegis Four" X="5953" Y="335" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Four" X="5970" Y="304" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Four" X="6003" Y="277" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Four" X="6008" Y="346" Icon="LEVEL4" Facet="0"/>
+
+<Marker Name="Aegis Four" X="5980" Y="295" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Aegis Six" X="5999" Y="228" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Aegis Six" X="6043" Y="330" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Aegis Four" X="5977" Y="272" Icon="LEVEL4" Facet="0"/>
+
+<Marker Name="Aegis Mini Chest" X="5951" Y="370" Icon="LEVEL7" Facet="0"/>
+<Marker Name="Aegis Boss Chest" X="5712" Y="323" Icon="LEVEL8" Facet="0"/>
+
+
+<Marker Name="Darkmire Two" X="5207" Y="1973" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Darkmire Two" X="5189" Y="1947" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Darkmire Two" X="5221" Y="1932" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Darkmire Two" X="5222" Y="1960" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Darkmire Two" X="5197" Y="2002" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Darkmire Two" X="5219" Y="2027" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Darkmire Two" X="5238" Y="2009" Icon="LEVEL2" Facet="0"/>
+
+<Marker Name="Darkmire Three" X="5374" Y="2058" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Darkmire Three" X="5406" Y="2086" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Darkmire Three" X="5385" Y="2034" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Darkmire Four" X="5391" Y="2016" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Darkmire Four" X="5378" Y="2016" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Darkmire Four" X="5351" Y="2019" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Darkmire Five" X="5331" Y="2043" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Darkmire Three" X="5353" Y="1978" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Darkmire Three" X="5324" Y="1984" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Darkmire Three" X="5327" Y="1938" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Darkmire Three" X="5372" Y="1954" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Darkmire Three" X="5374" Y="1943" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Darkmire Four" X="5400" Y="1969" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Darkmire Five" X="5400" Y="1993" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Darkmire Three" X="5424" Y="2020" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Darkmire Three" X="5425" Y="1965" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Darkmire Four" X="5366" Y="1941" Icon="LEVEL4" Facet="0"/>
+
+<Marker Name="Darkmire Four" X="5549" Y="2114" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Darkmire Six" X="5533" Y="2100" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Darkmire Four" X="5574" Y="2083" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Darkmire Five" X="5557" Y="2063" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Darkmire Four" X="5607" Y="2130" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Darkmire Six" X="5631" Y="2094" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Darkmire Four" X="5623" Y="2063" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Darkmire Four" X="5570" Y="2100" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Darkmire Five" X="5553" Y="2088" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Darkmire Four" X="5576" Y="2029" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Darkmire Six" X="5573" Y="1992" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Darkmire Six" X="5542" Y="1980" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Darkmire Six" X="5598" Y="2012" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Darkmire Four" X="5565" Y="1958" Icon="LEVEL4" Facet="0"/>
+
+<Marker Name="Darkmire Mini Chest" X="5488" Y="2106" Icon="LEVEL7" Facet="0"/>
+<Marker Name="Darkmire Boss Chest" X="5204" Y="2109" Icon="LEVEL8" Facet="0"/>
+
+
+
+<Marker Name="Inferno Two" X="5888" Y="2086" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Inferno Two" X="5941" Y="2061" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Inferno Two" X="5942" Y="1956" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Inferno Three" X="5900" Y="1958" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Inferno Three" X="5844" Y="1959" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Inferno Two" X="5824" Y="1938" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Inferno Two" X="5818" Y="2014" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Inferno Two" X="5823" Y="1973" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Inferno Three" X="5843" Y="1999" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Inferno Three" X="5849" Y="2012" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Inferno Two" X="5813" Y="2025" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Inferno Two" X="5858" Y="2027" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Inferno Two" X="5917" Y="2033" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Inferno Two" X="5892" Y="1980" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Inferno Two" X="5881" Y="2009" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Inferno Three" X="5932" Y="2033" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Inferno Three" X="5932" Y="2003" Icon="LEVEL3" Facet="0"/>
+
+<Marker Name="Inferno Three" X="5664" Y="2404" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Inferno Four" X="5721" Y="2288" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Three" X="5685" Y="2354" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Inferno Four" X="5677" Y="2320" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Four" X="5624" Y="2349" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Four" X="5722" Y="2312" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Four" X="5672" Y="2281" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Five" X="5770" Y="2405" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Inferno Four" X="5578" Y="2417" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Four" X="5799" Y="2407" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Four" X="5768" Y="2435" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Six" X="5646" Y="2272" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Inferno Four" X="5624" Y="2293" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Three" X="5750" Y="2384" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Inferno Five" X="5789" Y="2529" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Inferno Five" X="5782" Y="2502" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Inferno Three" X="5776" Y="2523" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Inferno Four" X="5757" Y="2494" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Three" X="5725" Y="2542" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Inferno Four" X="5753" Y="2349" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Three" X="5761" Y="2526" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Inferno Four" X="5791" Y="2342" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Four" X="5694" Y="2533" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Six" X="5697" Y="2494" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Inferno Five" X="5707" Y="2459" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Inferno Four" X="5620" Y="2390" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Three" X="5638" Y="2602" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Inferno Five" X="5614" Y="2437" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Inferno Six" X="5604" Y="2459" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Inferno Six" X="5926" Y="2419" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Inferno Six" X="5893" Y="2405" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Inferno Five" X="5662" Y="2414" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Inferno Six" X="5921" Y="2362" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Inferno Five" X="5860" Y="2346" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Inferno Four" X="5604" Y="2333" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Five" X="5865" Y="2343" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Inferno Three" X="5600" Y="2549" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Inferno Four" X="5622" Y="2467" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Five" X="5910" Y="2332" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Inferno Six" X="5873" Y="2379" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Inferno Six" X="5809" Y="2352" Icon="LEVEL6" Facet="0"/>
+
+<Marker Name="Inferno Three" X="5701" Y="2565" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Inferno Four" X="5851" Y="2464" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Five" X="5663" Y="2449" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Inferno Five" X="5835" Y="2451" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Inferno Four" X="5828" Y="2404" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Six" X="5880" Y="2369" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Inferno Four" X="5783" Y="2458" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Inferno Six" X="5927" Y="2429" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Inferno Three" X="5865" Y="2347" Icon="LEVEL3" Facet="0"/>
+
+
+<Marker Name="Inferno Mini Boss Chest" X="5886" Y="2208" Icon="LEVEL7" Facet="0"/>
+<Marker Name="Inferno Boss Chest" X="5800" Y="2163" Icon="LEVEL8" Facet="0"/>
+
+
+<Marker Name="Petram Two" X="5606" Y="2775" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Petram Three" X="5549" Y="2751" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Petram Three" X="5545" Y="2782" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Petram Three" X="5545" Y="2810" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Petram Three" X="5502" Y="2793" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Petram Two" X="5595" Y="2807" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Petram Two" X="5588" Y="2761" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Petram Two" X="5631" Y="2758" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Petram Two" X="5599" Y="2777" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Petram Two" X="5612" Y="2790" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Petram Two" X="5624" Y="2813" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Petram Two" X="5629" Y="2791" Icon="LEVEL2" Facet="0"/>
+
+<Marker Name="Petram Three" X="5562" Y="2911" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Petram Three" X="5567" Y="2888" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Petram Four" X="5602" Y="2839" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Petram Three" X="5605" Y="2896" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Petram Four" X="5584" Y="2858" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Petram Four" X="5555" Y="2938" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Petram Three" X="5632" Y="2894" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Petram Four" X="5584" Y="2940" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Petram Four" X="5593" Y="2923" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Petram Four" X="5621" Y="2942" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Petram Three" X="5602" Y="2878" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Petram Three" X="5626" Y="2866" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Petram Three" X="5574" Y="2868" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Petram Three" X="5600" Y="2883" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Petram Three" X="5591" Y="2852" Icon="LEVEL3" Facet="0"/>
+
+<Marker Name="Petram Four" X="5727" Y="2792" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Petram Five" X="5769" Y="2817" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Petram Six" X="5798" Y="2789" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Petram Six" X="5823" Y="2850" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Petram Five" X="5780" Y="2875" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Petram Five" X="5788" Y="2866" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Petram Five" X="5700" Y="2932" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Petram Four" X="5807" Y="2830" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Petram Five" X="5703" Y="2898" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Petram Six" X="5720" Y="2885" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Petram Four" X="5785" Y="2905" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Petram Four" X="5731" Y="2908" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Petram Six" X="5757" Y="2872" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Petram Five" X="5755" Y="2898" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Petram Four" X="5718" Y="2829" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Petram Five" X="5749" Y="2836" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Petram Five" X="5720" Y="2869" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Petram Five" X="5691" Y="2865" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Petram Four" X="5717" Y="2800" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Petram Four" X="5693" Y="2829" Icon="LEVEL4" Facet="0"/>
+
+<Marker Name="Petram Mini Boss Chest" X="5749" Y="2766" Icon="LEVEL7" Facet="0"/>
+<Marker Name="Petram Boss Chest" X="5746" Y="3050" Icon="LEVEL8" Facet="0"/>
+
+
+
+<Marker Name="Newbie One" X="5536" Y="509" Icon="LEVEL1" Facet="0"/>
+<Marker Name="Newbie One" X="5538" Y="509" Icon="LEVEL1" Facet="0"/>
+<Marker Name="Newbie One" X="5520" Y="515" Icon="LEVEL1" Facet="0"/>
+<Marker Name="Newbie One" X="5492" Y="522" Icon="LEVEL1" Facet="0"/>
+<Marker Name="Newbie One" X="5532" Y="489" Icon="LEVEL1" Facet="0"/>
+<Marker Name="Newbie One" X="5541" Y="489" Icon="LEVEL1" Facet="0"/>
+<Marker Name="Newbie One" X="5562" Y="484" Icon="LEVEL1" Facet="0"/>
+<Marker Name="Newbie One" X="5555" Y="521" Icon="LEVEL1" Facet="0"/>
+<Marker Name="Newbie One" X="5576" Y="502" Icon="LEVEL1" Facet="0"/>
+<Marker Name="Newbie One" X="5553" Y="473" Icon="LEVEL1" Facet="0"/>
+<Marker Name="Newbie One" X="5560" Y="453" Icon="LEVEL1" Facet="0"/>
+<Marker Name="Newbie One" X="5538" Y="470" Icon="LEVEL1" Facet="0"/>
+<Marker Name="Newbie One" X="5527" Y="453" Icon="LEVEL1" Facet="0"/>
+<Marker Name="Newbie One" X="5521" Y="478" Icon="LEVEL1" Facet="0"/>
+<Marker Name="Newbie One" X="5602" Y="500" Icon="LEVEL1" Facet="0"/>
+<Marker Name="Newbie One" X="5599" Y="470" Icon="LEVEL1" Facet="0"/>
+<Marker Name="Newbie One" X="5611" Y="470" Icon="LEVEL1" Facet="0"/>
+
+
+<Marker Name="Nusero Two" X="5776" Y="1703" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Nusero Two" X="5812" Y="1687" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Nusero Two" X="5803" Y="1713" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Nusero Two" X="5824" Y="1730" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Nusero Two" X="5839" Y="1743" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Nusero Two" X="5797" Y="1703" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Nusero Three" X="5843" Y="1685" Icon="LEVEL3" Facet="0"/>
+
+<Marker Name="Nusero Three" X="5823" Y="1616" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Nusero Three" X="5856" Y="1562" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Nusero Three" X="5880" Y="1579" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Nusero Three" X="5883" Y="1603" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Nusero Three" X="5869" Y="1618" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Nusero Three" X="5829" Y="1626" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Nusero Three" X="5809" Y="1570" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Nusero Three" X="5826" Y="1533" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Nusero Four" X="5887" Y="1521" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Nusero Three" X="5856" Y="1523" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Nusero Three" X="5840" Y="1485" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Nusero Four" X="5888" Y="1488" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Nusero Four" X="5919" Y="1516" Icon="LEVEL4" Facet="0"/>
+
+<Marker Name="Nusero Four" X="5971" Y="1761" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Nusero Four" X="5990" Y="1761" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Nusero Four" X="5955" Y="1790" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Nusero Four" X="5949" Y="1745" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Nusero Five" X="5963" Y="1727" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Nusero Five" X="6015" Y="1698" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Nusero Five" X="5936" Y="1656" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Nusero Five" X="5936" Y="1661" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Nusero Six" X="5957" Y="1572" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Nusero Five" X="5931" Y="1596" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Nusero Six" X="5935" Y="1642" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Nusero Five" X="5983" Y="1647" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Nusero Six" X="6014" Y="1666" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Nusero Five" X="6067" Y="1653" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Nusero Six" X="6066" Y="1609" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Nusero Six" X="6001" Y="1615" Icon="LEVEL6" Facet="0"/>
+
+<Marker Name="Nusero Mini Boss Chest" X="5710" Y="1588" Icon="LEVEL7" Facet="0"/>
+<Marker Name="Nusero Boss Chest" X="6009" Y="1454" Icon="LEVEL8" Facet="0"/>
+
+
+
+<Marker Name="Ossuary Two" X="5914" Y="1323" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Ossuary Two" X="5930" Y="1337" Icon="LEVEL2" Facet="0"/>
+
+<Marker Name="Ossuary Two" X="5868" Y="1322" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Ossuary Three" X="5855" Y="1273" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Ossuary Two" X="5841" Y="1307" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Ossuary Three" X="5819" Y="1281" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Ossuary Two" X="5799" Y="1282" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Ossuary Three" X="5804" Y="1302" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Ossuary Three" X="5820" Y="1319" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Ossuary Two" X="5849" Y="1328" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Ossuary Two" X="5839" Y="1354" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Ossuary Two" X="5851" Y="1352" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Ossuary Four" X="5812" Y="1365" Icon="LEVEL4" Facet="0"/>
+
+<Marker Name="Ossuary Three" X="5670" Y="1250" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Ossuary Three" X="5683" Y="1261" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Ossuary Four" X="5671" Y="1289" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Ossuary Three" X="5660" Y="1313" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Ossuary Three" X="5669" Y="1326" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Ossuary Three" X="5645" Y="1225" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Ossuary Four" X="5619" Y="1249" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Ossuary Four" X="5606" Y="1258" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Ossuary Three" X="5643" Y="1259" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Ossuary Five" X="5608" Y="1289" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Ossuary Five" X="5608" Y="1277" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Ossuary Six" X="5581" Y="1293" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Ossuary Six" X="5584" Y="1291" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Ossuary Four" X="5645" Y="1307" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Ossuary Four" X="5602" Y="1319" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Ossuary Four" X="5610" Y="1349" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Ossuary Four" X="5633" Y="1335" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Ossuary Four" X="5651" Y="1339" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Ossuary Six" X="5672" Y="1345" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Ossuary Six" X="5676" Y="1349" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Ossuary Five" X="5854" Y="1232" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Ossuary Five" X="5854" Y="1223" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Ossuary Five" X="5762" Y="1319" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Ossuary Five" X="5736" Y="1327" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Ossuary Five" X="5739" Y="1296" Icon="LEVEL5" Facet="0"/>
+
+<Marker Name="Ossuary Mini Boss Chest" X="5724" Y="1241" Icon="LEVEL7" Facet="0"/>
+<Marker Name="Ossuary Boss Chest" X="6043" Y="1256" Icon="LEVEL8" Facet="0"/>
+
+
+
+<Marker Name="Pulma Two" X="5159" Y="1355" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Pulma Two" X="5158" Y="1328" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Pulma Two" X="5195" Y="1345" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Pulma Two" X="5169" Y="1278" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Pulma Two" X="5208" Y="1257" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Pulma Three" X="5187" Y="1256" Icon="LEVEL3" Facet="0"/>
+
+<Marker Name="Pulma Three" X="5325" Y="1415" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Pulma Three" X="5310" Y="1392" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Pulma Three" X="5299" Y="1351" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Pulma Four" X="5289" Y="1356" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Pulma Three" X="5274" Y="1334" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Pulma Three" X="5292" Y="1313" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Pulma Five" X="5265" Y="1293" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Pulma Five" X="5260" Y="1289" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Pulma Four" X="5280" Y="1258" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Pulma Four" X="5338" Y="1244" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Pulma Three" X="5331" Y="1259" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Pulma Four" X="5344" Y="1293" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Pulma Four" X="5332" Y="1290" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Pulma Three" X="5349" Y="1312" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Pulma Three" X="5364" Y="1374" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Pulma Three" X="5364" Y="1374" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Pulma Three" X="5324" Y="1345" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Pulma Three" X="5317" Y="1263" Icon="LEVEL3" Facet="0"/>
+
+<Marker Name="Pulma Five" X="5447" Y="1318" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Pulma Five" X="5421" Y="1317" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Pulma Four" X="5416" Y="1269" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Pulma Six" X="5441" Y="1276" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Pulma Six" X="5442" Y="1273" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Pulma Six" X="5476" Y="1270" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Pulma Five" X="5479" Y="1305" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Pulma Six" X="5491" Y="1329" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Pulma Six" X="5470" Y="1328" Icon="LEVEL6" Facet="0"/>
+
+<Marker Name="Pulma Mini Boss Chest" X="5443" Y="1203" Icon="LEVEL7" Facet="0"/>
+<Marker Name="Pulma Boss Chest" X="5144" Y="1424" Icon="LEVEL8" Facet="0"/>
+
+
+
+<Marker Name="Mausoleum Two" X="5612" Y="724" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Mausoleum Two" X="5596" Y="723" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Mausoleum Two" X="5595" Y="680" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Mausoleum Two" X="5622" Y="679" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Mausoleum Two" X="5647" Y="685" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Mausoleum Two" X="5618" Y="663" Icon="LEVEL2" Facet="0"/>
+<Marker Name="Mausoleum Two" X="5604" Y="645" Icon="LEVEL2" Facet="0"/>
+
+<Marker Name="Mausoleum Three" X="5429" Y="732" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Mausoleum Three" X="5456" Y="720" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Mausoleum Three" X="5478" Y="744" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Mausoleum Four" X="5488" Y="761" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Mausoleum Three" X="5481" Y="683" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Mausoleum Three" X="5522" Y="684" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Mausoleum Four" X="5481" Y="658" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Mausoleum Four" X="5528" Y="647" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Mausoleum Three" X="5403" Y="739" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Mausoleum Three" X="5378" Y="732" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Mausoleum Four" X="5371" Y="732" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Mausoleum Four" X="5380" Y="698" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Mausoleum Four" X="5327" Y="689" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Mausoleum Three" X="5335" Y="701" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Mausoleum Three" X="5345" Y="669" Icon="LEVEL3" Facet="0"/>
+<Marker Name="Mausoleum Four" X="5341" Y="646" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Mausoleum Four" X="5339" Y="647" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Mausoleum Four" X="5368" Y="632" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Mausoleum Three" X="5382" Y="659" Icon="LEVEL3" Facet="0"/>
+
+<Marker Name="Mausoleum Four" X="5194" Y="726" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Mausoleum Four" X="5200" Y="698" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Mausoleum Four" X="5220" Y="706" Icon="LEVEL4" Facet="0"/>
+<Marker Name="Mausoleum Five" X="5170" Y="685" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Mausoleum Five" X="5188" Y="663" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Mausoleum Six" X="5209" Y="653" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Mausoleum Six" X="5221" Y="639" Icon="LEVEL6" Facet="0"/>
+<Marker Name="Mausoleum Five" X="5201" Y="638" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Mausoleum Five" X="5179" Y="632" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Mausoleum Five" X="5235" Y="677" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Mausoleum Five" X="5247" Y="627" Icon="LEVEL5" Facet="0"/>
+<Marker Name="Mausoleum Six" X="5282" Y="653" Icon="LEVEL6" Facet="0"/>
+
+<Marker Name="Mausoleum Mini Boss Chest" X="5234" Y="581" Icon="LEVEL7" Facet="0"/>
+<Marker Name="Mausoleum Boss Chest" X="5223" Y="832" Icon="LEVEL8" Facet="0"/>
+
+
+
+
+
+
+
+
+
+
+</Pack>
